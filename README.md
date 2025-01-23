@@ -2,5 +2,7 @@
 Firefox developer tools practice.
 
 **tools used**
-Microsoft Visual Studio Code
-Firefox Developer Tools
+* Microsoft Visual Studio Code
+* github
+* Firefox Developer Tools
+* Netilfy
